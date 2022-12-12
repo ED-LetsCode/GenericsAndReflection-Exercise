@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImportExportLibrary", "FileImportExportLibrary\FileImportExportLibrary.csproj", "{FA94746D-9F25-4D08-BB65-47BA292713EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImportExportConsole", "FileImportExportConsole\FileImportExportConsole.csproj", "{016EEDDB-613F-48A5-B406-A568B1B1A515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA94746D-9F25-4D08-BB65-47BA292713EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA94746D-9F25-4D08-BB65-47BA292713EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA94746D-9F25-4D08-BB65-47BA292713EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA94746D-9F25-4D08-BB65-47BA292713EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016EEDDB-613F-48A5-B406-A568B1B1A515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016EEDDB-613F-48A5-B406-A568B1B1A515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016EEDDB-613F-48A5-B406-A568B1B1A515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016EEDDB-613F-48A5-B406-A568B1B1A515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48742AE7-B59D-40D1-BF29-6D13A0E49131}
+	EndGlobalSection
+EndGlobal
